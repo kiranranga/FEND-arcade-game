@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+.life {
+    		width: auto;
+    		height: auto;
+    	}
+ .life img{
+ 	width: 30px;
+ 	height: auto;
+ }
+ canvas{
+ 	margin-top: -65px;
+ }
